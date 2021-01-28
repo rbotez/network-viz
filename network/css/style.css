@@ -219,6 +219,20 @@ margin-right:10px;
 	display:none;
 }
 
+#spider {
+	width: 227px;
+	height: 56px;
+	background-image: url('../images/unoosa_logo.png');
+	background-repeat: no-repeat;
+	display:inline-block;
+	margin-right:10px;
+	
+	}
+	
+	#spider span {
+		display:none;
+	}
+
 #maintitle {
 width: 100%;
 height: 72px;

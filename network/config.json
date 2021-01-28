@@ -4,23 +4,23 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
-    "text": "rb"
+    "link": "https://un-spider.org/",
+    "text": "UN-SPIDER"
   },
   "text": {
     "more": "Visualization of EO for DRM projects and partners in Africa.",
-    "intro": "",
-    "title": "EO Africa"
+    "intro": "A number of project consortia, initiatives and institutions are promoting the use of space technologies for disaster management and emergency response purposes in Africa. This network vizualisation aims to captures how the various entities are linked. Researched and created by UN-SPIDER (www.un-spider.org), it also features institutions that UN-SPIDER has interacted with as part of its technical advisory support (TAS) efforts.",
+    "title": "Actors and initiatives promote the use of space technologies for disaster management and emergency response in Afica"
   },
   "legend": {
-    "edgeLabel": "Edge description",
-    "colorLabel": "Modularity",
-    "nodeLabel": "Node description"
+    "edgeLabel": "Relation type",
+    "colorLabel": "Entity type",
+    "nodeLabel": "Institutions and projects"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
