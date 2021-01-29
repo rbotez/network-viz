@@ -221,17 +221,17 @@ margin-right:10px;
 
 #spider {
 	width: 227px;
-	height: 56px;
-	background-image: url('../images/unoosa_logo.png');
+	height: auto;
+	background-image: url('../images/UNOOSA_Logo_blue.svg');
 	background-repeat: no-repeat;
 	display:inline-block;
 	margin-right:10px;
 	
 	}
 	
-	#spider span {
-		display:none;
-	}
+#spider span {
+	display:none;
+}
 
 #maintitle {
 width: 100%;
